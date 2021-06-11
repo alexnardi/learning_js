@@ -1,0 +1,11 @@
+#app {
+    width: 100vw;
+    height: 100vh;
+}
+
+#app .box {
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    margin-bottom: 10px;
+}
